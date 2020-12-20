@@ -29,7 +29,7 @@ node-red
 =======-----==============-----==============-----==============-----==============-----=======
 
 Short description:
-Bot(for ShoeMarket) with autorisation and sync between two messengers(Viber and Telegram). Made not for commerce.
+Bot(for ShoeMarket) with autorization and sync between two messengers(Viber and Telegram). Made not for commerce.
 
 Requirements:
 node-red-node-sqlite - sqlite node to work with Database
