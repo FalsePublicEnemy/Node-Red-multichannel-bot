@@ -1,0 +1,343 @@
+{
+    "type": "table",
+    "database": null,
+    "name": "Database",
+    "withoutRowId": true,
+    "ddl": "CREATE TABLE \"Database\" (id CHAR, url CHAR, url_image CHAR, size CHAR, brand CHAR, model CHAR, type CHAR, price CHAR);",
+    "columns": [
+        {
+            "name": "id",
+            "type": "CHAR"
+        },
+        {
+            "name": "url",
+            "type": "CHAR"
+        },
+        {
+            "name": "url_image",
+            "type": "CHAR"
+        },
+        {
+            "name": "size",
+            "type": "CHAR"
+        },
+        {
+            "name": "brand",
+            "type": "CHAR"
+        },
+        {
+            "name": "model",
+            "type": "CHAR"
+        },
+        {
+            "name": "type",
+            "type": "CHAR"
+        },
+        {
+            "name": "price",
+            "type": "CHAR"
+        }
+    ],
+    "rows": [
+        [
+            "1",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/botinki\/botinki_miraton_000132681\/",
+            "https:\/\/i.imgur.com\/a9treAR.jpg",
+            "41-45",
+            "Miraton",
+            "HighTop",
+            "Boots",
+            "3499"
+        ],
+        [
+            "2",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/botinki\/botinki_miraton_000129614\/",
+            "https:\/\/i.imgur.com\/XiMjSX8.jpg",
+            "41-45",
+            "Miraton",
+            "125-6314T\/101",
+            "Boots",
+            "3499"
+        ],
+        [
+            "3",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/botinki\/botinki_miguel_miratez_000129540\/",
+            "https:\/\/i.imgur.com\/1zysRRd.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "808536\/02-02",
+            "Boots",
+            "3599"
+        ],
+        [
+            "4",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/botinki\/botinki_cmp_000131710\/",
+            "https:\/\/i.imgur.com\/h8YxDvX.jpg",
+            "41-45",
+            "CMP",
+            "0782X-80-A71\/S1D",
+            "Boots",
+            "3499"
+        ],
+        [
+            "5",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/botinki\/botinki_miguel_miratez_000129666\/",
+            "https:\/\/i.imgur.com\/kI5CfwO.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "B201306T-1M",
+            "Boots",
+            "3699"
+        ],
+        [
+            "6",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/botinki\/botinki_greyder_000127453\/",
+            "https:\/\/i.imgur.com\/1BOFpdf.jpg",
+            "41-45",
+            "Greyder",
+            "14471",
+            "Boots",
+            "3999"
+        ],
+        [
+            "7",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/kedy\/kedy_miraton_000129789\/",
+            "https:\/\/i.imgur.com\/o5ADZoq.jpg",
+            "41-45",
+            "Miraton",
+            "-",
+            "Sneakers-1",
+            "3000"
+        ],
+        [
+            "8",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/kedy\/kedy_miraton_000127645\/",
+            "https:\/\/i.imgur.com\/5sRXTtu.jpg",
+            "41-45",
+            "Miraton",
+            "Перфорация",
+            "Sneakers-1",
+            "3099"
+        ],
+        [
+            "9",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/kedy\/kedy_42_5__puma_000131815\/",
+            "https:\/\/i.imgur.com\/6v8riKx.jpg",
+            "41-45",
+            "Puma",
+            "Puma Smash Wns V2 L",
+            "Sneakers-1",
+            "1989"
+        ],
+        [
+            "10",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/kedy\/kedy_adidas_000131850\/",
+            "https:\/\/i.imgur.com\/4llBKPj.jpg",
+            "41-45",
+            "Adidas",
+            "Stan Smith",
+            "Sneakers-1",
+            "3499"
+        ],
+        [
+            "11",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/kedy\/kedy_nike_000131909\/",
+            "https:\/\/i.imgur.com\/DPgZpp4.jpg",
+            "41-45",
+            "Nike",
+            "Nike Court Vision Low",
+            "Sneakers-1",
+            "2499"
+        ],
+        [
+            "12",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/kedy\/kedy_lacoste_000131782\/",
+            "https:\/\/i.imgur.com\/stN3mpK.jpg",
+            "41-45",
+            "Lacoste",
+            "Aesthet Luxe",
+            "Sneakers-1",
+            "3579"
+        ],
+        [
+            "13",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/krossovki\/krossovki_new_balance_000131883\/",
+            "https:\/\/i.imgur.com\/GBwqPlA.jpg",
+            "41-45",
+            "New Balance",
+            "426",
+            "Sneakers-2",
+            "2699"
+        ],
+        [
+            "14",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/krossovki\/krossovki_asics_000131993\/",
+            "https:\/\/i.imgur.com\/ubVXwvw.jpg",
+            "41-45",
+            "Asics",
+            "Lyte Classic",
+            "Sneakers-2",
+            "2479"
+        ],
+        [
+            "15",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/krossovki\/krossovki_41_5__fila_000131804\/",
+            "https:\/\/i.imgur.com\/B9Cj1RW.jpg",
+            "41-45",
+            "Fila",
+            "Ray Tracer",
+            "Sneakers-2",
+            "2599"
+        ],
+        [
+            "16",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/krossovki\/krossovki_41_5__fila_000131802\/",
+            "https:\/\/i.imgur.com\/UjZ1m8k.jpg",
+            "41-45",
+            "Fila",
+            "Ray Tracer",
+            "Sneakers-2",
+            "2599"
+        ],
+        [
+            "17",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/krossovki\/krossovki_new_balance_000132093\/",
+            "https:\/\/i.imgur.com\/7GMHwxL.jpg",
+            "41-45",
+            "New Balance",
+            "997",
+            "Sneakers-2",
+            "2999"
+        ],
+        [
+            "18",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/krossovki\/krossovki_saucony_000131618\/",
+            "https:\/\/i.imgur.com\/7GWeymx.jpg",
+            "41-45",
+            "Saucony",
+            "Jazz Original",
+            "Sneakers-2",
+            "2369"
+        ],
+        [
+            "19",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/mokasiny\/mokasiny_miguel_miratez_000127679\/",
+            "https:\/\/i.imgur.com\/LVmtNAA.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "538A-1-A16",
+            "Moccasins",
+            "2999"
+        ],
+        [
+            "20",
+            "https:\/\/www.miraton.ua\/catalog\/outlet\/outlet_men\/mokasiny_miguel_miratez_000120861\/",
+            "https:\/\/i.imgur.com\/wmcj0kT.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "8713A-11-M173",
+            "Moccasins",
+            "3099"
+        ],
+        [
+            "21",
+            "https:\/\/www.miraton.ua\/catalog\/outlet\/outlet_men\/mokasiny_miguel_miratez_000120625\/",
+            "https:\/\/i.imgur.com\/XqWCmTS.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "A539D03D-3",
+            "Moccasins",
+            "3199"
+        ],
+        [
+            "22",
+            "https:\/\/www.miraton.ua\/catalog\/outlet\/outlet_men\/mokasiny_miraton_000120800\/",
+            "https:\/\/i.imgur.com\/pbU54cm.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "0669A-118-X3",
+            "Moccasins",
+            "3099"
+        ],
+        [
+            "23",
+            "https:\/\/www.miraton.ua\/catalog\/outlet\/outlet_men\/mokasiny_miguel_miratez_000120857\/",
+            "https:\/\/i.imgur.com\/xKi9iL0.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "8713A-11-M171",
+            "Moccasins",
+            "3099"
+        ],
+        [
+            "24",
+            "https:\/\/www.miraton.ua\/catalog\/outlet\/outlet_men\/mokasiny_miguel_miratez_000120570\/",
+            "https:\/\/i.imgur.com\/CUOd7xx.jpg",
+            "41-45",
+            "Miguel Miratez",
+            "628B-16-1199",
+            "Moccasins",
+            "2999"
+        ],
+        [
+            "25",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/tufli\/tufli_miraton_000129634\/",
+            "https:\/\/i.imgur.com\/2d5z2jz.jpeg",
+            "41-45",
+            "Miraton",
+            "A539D03D-3",
+            "Shoes",
+            "3399"
+        ],
+        [
+            "26",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/tufli\/tufli_miguel_miratez_000127677\/",
+            "https:\/\/i.imgur.com\/ngysZAy.jpeg",
+            "41-45",
+            "Miguel Miratez",
+            "Ray Tracer",
+            "Shoes",
+            "3199"
+        ],
+        [
+            "27",
+            "https:\/\/www.miraton.ua\/catalog\/outlet\/outlet_men\/tufli_miguel_miratez_000120746\/",
+            "https:\/\/i.imgur.com\/SvPa98m.jpeg",
+            "41-45",
+            "Miraton",
+            "8713A-11-M171",
+            "Shoes",
+            "3199"
+        ],
+        [
+            "28",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/tufli\/tufli_miguel_miratez_000120755\/",
+            "https:\/\/i.imgur.com\/CT26fTT.jpeg",
+            "41-45",
+            "Miguel Miratez",
+            "8713A-11-M173",
+            "Shoes",
+            "3199"
+        ],
+        [
+            "29",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/tufli\/tufli_miguel_miratez_000120757\/",
+            "https:\/\/i.imgur.com\/QocpYO2.jpeg",
+            "41-45",
+            "Miraton",
+            "628B-16-1199",
+            "Shoes",
+            "3199"
+        ],
+        [
+            "30",
+            "https:\/\/www.miraton.ua\/catalog\/men\/shoes\/tufli\/tufli_miguel_miratez_000120724\/",
+            "https:\/\/i.imgur.com\/aPx5vJJ.jpeg",
+            "41-45",
+            "Miguel Miratez",
+            "Jazz Original",
+            "Shoes",
+            "3199"
+        ]
+    ]
+}
