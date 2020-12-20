@@ -1,4 +1,4 @@
-This bot made for testing powerful abilities of node-red platform in bot-developing.
+This bot made for testing powerful abilities of node-red platform in bot-developing.  
 Language - Russian, but all nodes have english-localization name.
 Contains his own Database on Sqlite server
 Using an imgur.com hosting to save images. 
